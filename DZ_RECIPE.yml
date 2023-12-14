@@ -1,0 +1,6 @@
+dev:
+  name: ""
+  packages:
+  - nixpkgs.go
+  repos:
+  - https://github.com/git/git
